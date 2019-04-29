@@ -20,6 +20,7 @@ var funkyFunction = function() {		//  Got [Function: funkyFunction]. Should get:
 }
 
 var theFunk = funkyFunction();
+<<<<<<< HEAD
 theFunk();
 
 var funkyFunction = function() {	
@@ -35,3 +36,7 @@ theFunk();
 //both of these funkyFunctions 
 //return "FUNKY!" in Sublimetext. 
 //I'm not sure what you people are looking for. 
+=======
+debug(theFunk());
+
+>>>>>>> e652527ccc862980b0b851c45acd553dbb1ae57b
